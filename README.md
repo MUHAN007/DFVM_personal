@@ -75,7 +75,7 @@ def g(self, X):
 
 ### 复现结果
 
-<div align="center"> <img src="./DFVM/output/possion_equation.png" width = 400
+<div align="center"> <img src="./image/possion_equation.png" width = 400
  /> </div>
 
 ### 2 biharmonic equation
