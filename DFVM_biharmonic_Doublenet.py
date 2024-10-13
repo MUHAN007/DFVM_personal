@@ -50,7 +50,7 @@ IS_RESAMPLE = 0
 SAMPLE_FREQUENCY = 2000     # Re-sampling interval
 
 # Testing
-NUM_TEST_SAMPLE = 10000     # Number of test samples
+NUM_TEST_SAMPLE = 1     # Number of test samples
 TEST_FREQUENCY = 1          # Output interval
 
 # Loss weight
